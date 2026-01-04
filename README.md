@@ -3,7 +3,7 @@ A full-stack category management dashboard with authentication, protected APIs, 
 ________________________________________
 🌐 Live Demo
 Frontend (Vercel)
-https://category-dashboard-ewnj0td8d-atifashraf341-8752s-projects.vercel.app
+https://category-dashboard-iota.vercel.app/
 Backend API (Render)
 https://category-backend.onrender.com/api
 (Backend requires a valid JWT — returns 401 for unauthorized requests, which is expected.)

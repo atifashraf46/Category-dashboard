@@ -4,12 +4,9 @@
   "main": "index.js",
   "scripts": {
     "dev": "nodemon server.js",
-    "start": "node server.js"
-
+    "start": "node server.js",
+    "postinstall": "npm rebuild sqlite3"
   },
-
-
-
   "keywords": [],
   "author": "",
   "license": "ISC",
